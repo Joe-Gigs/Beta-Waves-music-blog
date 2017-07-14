@@ -1,5 +1,5 @@
 main:
     - { url: '/', text: 'Blog' }
     - { url: '/about', text: 'About' }
-    - { url: '#', text: 'Send me music' }
-    - { url: '#', text: 'Contact' }
+    - { url: '/submit', text: 'Send me music' }
+    - { url: '/contact', text: 'Contact' }
